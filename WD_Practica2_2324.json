@@ -43,6 +43,15 @@
         "alt": "Excavadora",
 		"texto": "Página dedicada a los amantes de los videojuegos, un lugar seguro para crear comunidad.",
 		"url": "https://noemifarre.github.io/playexp/"
+    },
+	{
+        "id": 5,
+        "autor": "David Gili i Ivan López",
+        "titulo": "El Jonaz Games",
+        "srcimg": "https://github.com/Snelg04/final/blob/main/logo.jpg",
+        "alt": "Descargar juegos piratas",
+		"texto": "Página de descarga de juegos y programas piratas, Gratis🤑🤑🤑",
+		"url": "https://snelg04.github.io/final/"
     }
 
 ]
