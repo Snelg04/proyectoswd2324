@@ -114,6 +114,15 @@
 	"alt": "Logotip del museu Balema",
  	"texto": "Web d'un museu que explora diferents tipus d'art",
 	"url": "https://elbabati.github.io/miyomiyomiyo/"
+    },
+	{
+        "id": 12,
+        "autor": "David Gili Gilart & Ivan López Chacón",
+	"titulo": "El Jonaz Games",
+	"srcimg": "https://github.com/Snelg04/final/blob/main/img/Logo.98f7137a.png",
+	"alt": "Logotip El Jonaz Games",
+ 	"texto": "🤑​🤑​Web para descargar juegos pirata🤑​🤑​",
+	"url": "https://snelg04.github.io/final/"
     }
 
 
